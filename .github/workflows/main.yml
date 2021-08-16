@@ -17,4 +17,5 @@ jobs:
           touch README.md
           git add README.md
           git commit -m "Alteração $(date) feita por ${GITHUB_ACTOR}"
-          git push origin master --force 
+          git remote add origin "github.com/westmany/action-time/"
+          git push -u origin master
