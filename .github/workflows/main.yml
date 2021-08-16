@@ -16,4 +16,4 @@ jobs:
           git config --global user.name "${GITHUB_ACTOR}"
           git add README.md
           git commit -m "Alteração $(date) feita por ${GITHUB_ACTOR}"
-          git push origin master
+          git push
