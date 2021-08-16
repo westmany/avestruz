@@ -15,8 +15,7 @@ jobs:
           git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git config --global user.name "${GITHUB_ACTOR}"
           git init
-          git branch -m dev
+          git branch -m master
           git add README.md
           git commit -m "Alteração $(date) feita por ${GITHUB_ACTOR}"
-          git remote add origin "github.com/westmany/action-time/"
           git push -u origin HEAD:master
