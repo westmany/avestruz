@@ -1,1 +1,1 @@
-[Atenção] Até a data: Thu Nov 18 23:51:17 UTC 2021, nenhum avestruz dominou o mundo!
+[Atenção] Até a data: Fri Nov 19 00:14:34 UTC 2021, nenhum avestruz dominou o mundo!
